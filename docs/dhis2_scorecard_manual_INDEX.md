@@ -1,6 +1,7 @@
 ---
 title: 'DHIS 2 manual for the Interactive Scorecard App'
-author: 'Scorecard App team - in collaboration of HISP UiO, HISP Uganda & HISP Tanzania'
+author: 'Scorecard App team'
+sub-author: 'in collaboration of HISP UiO, HISP Uganda & HISP Tanzania'
 date:
 year: 2019
 month: October
