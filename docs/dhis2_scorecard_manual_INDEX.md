@@ -12,19 +12,23 @@ logo: resources/images/image120.png
 ---
 <!--DHIS2-SECTION-ID:index-->
 
-!INCLUDE "content/scorecard-and-demo-server.md"
-!INCLUDE "content/installing-scorecard.md"
-!INCLUDE "content/opening-and-browsing-scorecards.md"
-!INCLUDE "content/analysis-with-scorecard.md"
-!INCLUDE "content/scorecard-layouts-headers-and-legends.md"
-!INCLUDE "content/additional-options.md"
-!INCLUDE "content/context-menu.md"
-!INCLUDE "content/further-analysis.md"
-!INCLUDE "content/creating-and-managing-scorecard.md"
-!INCLUDE "content/customizations-and-editing-of-scorecard.md"
-!INCLUDE "content/related-indicators-analysis-in-dhis2.md"
-!INCLUDE "content/scorecard-and-bottleneck-analysis-implementation.md"
-!INCLUDE "content/help-tour-guide-translation.md"
-!INCLUDE "content/scorecard-community-and-use-cases.md"
-!INCLUDE "content/annex.md"
-!INCLUDE "content/bibliography.md"
+!INCLUDE "../../../common/about-this-guide.md"
+
+# Introduction and Usage
+
+!INCLUDE "content/scorecard-and-demo-server.md", 1
+!INCLUDE "content/installing-scorecard.md", 1
+!INCLUDE "content/opening-and-browsing-scorecards.md", 1
+!INCLUDE "content/analysis-with-scorecard.md", 1
+!INCLUDE "content/scorecard-layouts-headers-and-legends.md", 1
+!INCLUDE "content/additional-options.md", 1
+!INCLUDE "content/context-menu.md", 1
+!INCLUDE "content/further-analysis.md", 1
+!INCLUDE "content/creating-and-managing-scorecard.md", 1
+!INCLUDE "content/customizations-and-editing-of-scorecard.md", 1
+!INCLUDE "content/related-indicators-analysis-in-dhis2.md", 1
+!INCLUDE "content/scorecard-and-bottleneck-analysis-implementation.md", 1
+!INCLUDE "content/help-tour-guide-translation.md", 1
+!INCLUDE "content/scorecard-community-and-use-cases.md", 1
+!INCLUDE "content/annex.md", 1
+!INCLUDE "content/bibliography.md", 1
